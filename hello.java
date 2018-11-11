@@ -4,5 +4,6 @@ class A {
      System.out.println("Hello World");
      System.out.println("jaaveeth");
 	System.out.println("update");
+	 System.out.println("new");
  }
 }
